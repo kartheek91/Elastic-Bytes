@@ -1,5 +1,6 @@
 # Practise Questions for Elasticsearch Certified Engineer
-# Topic: Combinational Queries
+Combinational Query: A query that matches documents matching boolean combinations of other queries
+
 
 ## Write and execute a search query that is a Boolean combination of multiple queries and filters
 
